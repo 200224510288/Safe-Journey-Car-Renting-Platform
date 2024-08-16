@@ -1,10 +1,10 @@
 # Safe-Journey-Car-Renting-Platform
 This repository contains a car renting system developed in C# using Visual Studio. The Safe Journey Car Renting Platform allows users to efficiently manage car rentals through a user-friendly interface.
 this Project You can download from this link
-https://studentsapiitlk-my.sharepoint.com/:f:/g/personal/cb013235_students_apiit_lk/EmOrxl21qptKnUi9gu3FAkEBBk0GYdWDfY8BePe-GpJRaA?e=ifta6o
+https://studentsapiitlk-my.sharepoint.com/:f:/g/personal/cb013235_students_apiit_lk/EjAhSPDo-RFCgRWElYhiyMQBujyku__AN_a2diTkjljJKA?e=UXTbZP
 
 Source Cord You Can Download from here
-https://studentsapiitlk-my.sharepoint.com/:f:/g/personal/cb013235_students_apiit_lk/EoW7h6iPLIVMiffRxzlqGeoBDJOgeCcUPpu3EDDafxa-lQ?e=7AyrOW
+https://studentsapiitlk-my.sharepoint.com/:f:/g/personal/cb013235_students_apiit_lk/EjAhSPDo-RFCgRWElYhiyMQBujyku__AN_a2diTkjljJKA?e=UXTbZP
 
 This is the project PDF
 
